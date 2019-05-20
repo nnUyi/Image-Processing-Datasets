@@ -1,6 +1,6 @@
 # Image Processing Datasets (Low-Level Vision Datasets)
 
-A curated list of image processing datasets in regions of brightening, HDR, color enhancement and inpainting.
+A list of image processing datasets in regions of brightening, HDR, color enhancement and inpainting.
 
 ## Brightening
  * VIP-LowLight Dataset [[WEB]](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)
@@ -103,7 +103,6 @@ A curated list of image processing datasets in regions of brightening, HDR, colo
 
 * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'18) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
 
-
 # Acknowledgements
 
-The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from [STRUCT Group](http://www.icst.pku.edu.cn/struct/struct.html) at PKU. More details can refer to [website](https://github.com/daooshee/Image-Processing-Datasets/blob/master/README.md)
+The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from [STRUCT Group](http://www.icst.pku.edu.cn/struct/struct.html) at PKU. More details can refer to [website](https://github.com/daooshee/Image-Processing-Datasets/blob/master/README.md).
