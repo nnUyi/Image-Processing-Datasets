@@ -78,20 +78,28 @@ A curated list of image processing datasets in regions of brightening, HDR, colo
  * Benchmarking blind deconvolution with a real-world database (ECCV'12) [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1398&rep=rep1&type=pdf)
  * A Comparative Study for Single Image Blind Deblurring (CVPR'16) [[WEB]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
 
-## De-rain
+## De-raining
 
-### rain streak removal
+### Rain streak removal
+#### Single image deraining
  * Rain Streak Database [[PDF]](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Garg_TOG06.pdf) [[WEB]](http://www1.cs.columbia.edu/CAVE/projects/rain_ren/rain_ren.php)
    * Photorealistic rendering of rain streaks
- * Single Image Rain Streak Decomposition Using Layer Priors [[PDF]](https://ieeexplore.ieee.org/abstract/document/7934436/) [[DATASET]](http://yu-li.github.io/paper/li_cvpr16_rain.zip)
- * Rain100L, Rain20L and Rain100H [[WEB]](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)
+ * Rain12 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7934436/) [[DATASET]](http://yu-li.github.io/paper/li_cvpr16_rain.zip)
+   * Single Image Rain Streak Decomposition Using Layer Priors
+ * Rain100L and Rain100H [[WEB]](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)
    * Deep Joint Rain Detection and Removal From a Single Image
- * MS-CSC-Rain-Streak-Removal [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
-   * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding
- * DID-MDN [[WEB]](https://github.com/hezhangsprinter/DID-MDN)
+ * Rain800 [[WEB](https://github.com/hezhangsprinter/ID-CGAN)][[PDF](https://arxiv.org/abs/1701.05957)]
+   * ID_CGAN:Image De-raining Using a Conditional Generative Adversarial Network
+ * Rain1400 [[WEB](https://xueyangfu.github.io/projects/cvpr2017.html)][[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
+   * Removing rain from single images via a deep detail network
+ * Rain1200 [[WEB]](https://github.com/hezhangsprinter/DID-MDN)
    * Density-aware Single Image De-raining using a Multi-stream Dense Network
 
-### rain drop removal
+#### Video rain removal
+* MS-CSC-Rain-Streak-Removal [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
+   * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding
+
+### Rain drop removal
 
 * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'18) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
 
