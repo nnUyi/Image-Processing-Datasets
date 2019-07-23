@@ -94,9 +94,9 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
    * Removing rain from single images via a deep detail network
  * Rain1200 [[WEB]](https://github.com/hezhangsprinter/DID-MDN)
    * Density-aware Single Image De-raining using a Multi-stream Dense Network
- * Heavy Rain Dataset [[WEB](https://drive.google.com/file/d/1rFpW_coyxidYLK8vrcfViJLDd-BcSn4B/view)]
+ * Heavy Rain Dataset [[WEB](https://drive.google.com/file/d/1rFpW_coyxidYLK8vrcfViJLDd-BcSn4B/view)][[PDF](http://export.arxiv.org/pdf/1904.05050)]
    * Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning
- * SPANet Dataset [[WEB](https://stevewongv.github.io/derain-project.html)]
+ * SPANet Dataset [[WEB](https://stevewongv.github.io/derain-project.html)][[PDF](https://arxiv.org/pdf/1904.01538.pdf)]
    * Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset
 
 #### Video rain removal
