@@ -86,13 +86,13 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
    * Photorealistic rendering of rain streaks
  * Rain12 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7934436/) [[DATASET]](http://yu-li.github.io/paper/li_cvpr16_rain.zip)
    * Single Image Rain Streak Decomposition Using Layer Priors
- * Rain100L and Rain100H [[WEB]](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)
+ * Rain100L and Rain100H [[WEB]](http://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html)[[PDF](https://ieeexplore.ieee.org/document/8099666)]
    * Deep Joint Rain Detection and Removal From a Single Image
  * Rain800 [[WEB](https://github.com/hezhangsprinter/ID-CGAN)][[PDF](https://arxiv.org/abs/1701.05957)]
    * ID_CGAN:Image De-raining Using a Conditional Generative Adversarial Network
  * Rain1400 [[WEB](https://xueyangfu.github.io/projects/cvpr2017.html)][[PDF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Removing_Rain_From_CVPR_2017_paper.pdf)]
    * Removing rain from single images via a deep detail network
- * Rain1200 [[WEB]](https://github.com/hezhangsprinter/DID-MDN)
+ * Rain1200 [[WEB]](https://github.com/hezhangsprinter/DID-MDN)[[PDF](https://arxiv.org/abs/1802.07412)]
    * Density-aware Single Image De-raining using a Multi-stream Dense Network
  * Heavy Rain Dataset [[WEB](https://drive.google.com/file/d/1rFpW_coyxidYLK8vrcfViJLDd-BcSn4B/view)][[PDF](http://export.arxiv.org/pdf/1904.05050)]
    * Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning
