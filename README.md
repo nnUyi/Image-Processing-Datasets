@@ -14,7 +14,7 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
  * ExDARK [[PDF]](https://arxiv.org/abs/1805.11227)
    * Getting to Know Low-light Images with The Exclusively Dark Dataset (Submitted to CVIU), Yuen Peng Loh, Chee Seng Chan.
    
-## Color-Enhancement
+## Color Enhancement
  * MIT FiveK dataset [[PDF]](https://people.csail.mit.edu/sparis/publi/2011/cvpr_auto/Bychkovsky_11_Learning_Photo_Adjustment.pdf) [[WEB]](https://data.csail.mit.edu/graphics/fivek/)
    * Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs (CVPR2011), Vladimir Bychkovsky, Sylvain Paris and Eric Chan, Fredo Durand.
  * LRAICE-Dataset [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Yan_A_Learning-to-Rank_Approach_2014_CVPR_paper.pdf) [[WEB]]() 
@@ -24,7 +24,7 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
  * The 500px Dataset [[PDF]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/Exposure.pdf) 
    * Exposure: A White-Box Photo Post-Processing Framework (TOG2018), Yuanming Hu, Hao He, Chenxi Xu, Baoyuan Wang, Stephen Lin.
    
-## Image-Inpainting
+## Image Inpainting
  * Image Inpainting [[WEB]](http://chalearnlap.cvc.uab.es/dataset/30/description/)
    * 2018 Chalearn Looking at People Satellite Workshop ECCV
 
@@ -40,7 +40,7 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
  * Holistic Dataset [[PDF]](http://snam.ml/assets/ccnoise_cvpr16/ccnoise_cvpr16.pdf) [[WEB]](http://snam.ml/research/ccnoise)
    * A Holistic Approach to Cross-Channel Image Noise Modeling and its Application to Image Denoising (CVPR2016), Seonghyeon Nam, Youngbae Hwang, Yasuyuki Matsushita, Seon Joo Kim.
    
-## Super-Resolution and Up-Sampling
+## Super Resolution and Up-Sampling
  * Train91 [[PDF]](http://www.columbia.edu/~jw2966/papers/YWHM10-TIP.pdf) [[WEB]](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
    * Image Super-Resolution via Sparse Representation (TIP2010), Jianchao Yang, John Wright, Thomas Huang, and Yi Ma.
  * Set5 [[PDF]](http://www.vision.ee.ethz.ch/~timofter/publications/Timofte-ICCV-2013.pdf) [[WEB]](http://www.vision.ee.ethz.ch/~timofter/ICCV2013_ID1774_SUPPLEMENTARY/index.html)
@@ -58,7 +58,7 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
  * Super-Resolution Erlangen (SupER) [[PDF]](https://arxiv.org/pdf/1709.04881.pdf) [[WEB]](https://superresolution.tf.fau.de/)
    * Benchmarking Super-Resolution Algorithms on Real Data (Arxiv2017), Thomas Köhler, Michel Bätz, Farzad Naderi, André Kaup, Andreas Maier, and Christian Riess.     
 
-## Dehazing
+## Image Dehazing
  * Waterloo IVC Dehazed Image Database [[PDF]](http://ieeexplore.ieee.org/document/7351475/) [[WEB]](http://ivc.uwaterloo.ca/database/Dehaze/Dehaze-Database.php)
    * Perceptual evaluation of single image dehazing algorithms (ICIP'15), Kede Ma, Wentao Liu and Zhou Wang.
  * FRIDA dataset [[WEB]](http://perso.lcpc.fr/tarel.jean-philippe/bdd/frida.html)
@@ -72,14 +72,13 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
  door images [[PDF]](https://arxiv.org/abs/1804.05101)
  * RESIDE: A Benchmark for Single Image Dehazing [[WEB]](https://sites.google.com/view/reside-dehaze-datasets)
 
-## Deblurring (sharpening)
+## Image Deblurring (sharpening)
  * Understanding and evaluating blind deconvolution algorithms (CVPR'09) [[PDF]](https://ieeexplore.ieee.org/document/5206815)
  * Edge-based blur kernel estimation using patch priors [[PDF]](https://ieeexplore.ieee.org/document/6528301/)
  * Benchmarking blind deconvolution with a real-world database (ECCV'12) [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1398&rep=rep1&type=pdf)
  * A Comparative Study for Single Image Blind Deblurring (CVPR'16) [[WEB]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
 
-## De-raining
-
+## Image Deraining
 ### Rain streak removal
 #### Single image deraining
  * Rain Streak Database  [[DATASET]](http://www1.cs.columbia.edu/CAVE/projects/rain_ren/rain_ren.php)[[PDF]](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Garg_TOG06.pdf)
@@ -104,9 +103,7 @@ A list of image processing datasets in regions of brightening, HDR, color enhanc
    * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding
 
 ### Rain drop removal
-
 * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR'18) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
 
 # Acknowledgements
-
 The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from [STRUCT Group](http://www.icst.pku.edu.cn/struct/struct.html) at PKU. More details can refer to [website](https://github.com/daooshee/Image-Processing-Datasets/blob/master/README.md).
